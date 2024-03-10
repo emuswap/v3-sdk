@@ -24,18 +24,18 @@
     "prepublishOnly": "tsdx build"
   },
   "resolutions": {
-    "@uniswap/sdk-core": "git+https://github.com/etcswap/sdk-core.git#etcswap",
-    "@uniswap/swap-router-contracts": "git+https://github.com/etcswap/swap-router-contracts.git#etcswap",
-    "@uniswap/v3-periphery": "git+https://github.com/etcswap/v3-periphery.git#etcswap",
-    "@uniswap/v3-staker": "git+https://github.com/etcswap/v3-staker.git#etcswap"
+    "@uniswap/sdk-core": "git+https://github.com/emuswap/sdk-core.git#emuswap",
+    "@uniswap/swap-router-contracts": "git+https://github.com/emuswap/swap-router-contracts.git#emuswap",
+    "@uniswap/v3-periphery": "git+https://github.com/emuswap/v3-periphery.git#emuswap",
+    "@uniswap/v3-staker": "git+https://github.com/emuswap/v3-staker.git#emuswap"
   },
   "dependencies": {
     "@ethersproject/abi": "^5.0.12",
     "@ethersproject/solidity": "^5.0.9",
-    "@uniswap/sdk-core": "git+https://github.com/etcswap/sdk-core.git#etcswap",
-    "@uniswap/swap-router-contracts": "git+https://github.com/etcswap/swap-router-contracts.git#etcswap",
-    "@uniswap/v3-periphery": "git+https://github.com/etcswap/v3-periphery.git#etcswap",
-    "@uniswap/v3-staker": "git+https://github.com/etcswap/v3-staker.git#etcswap",
+    "@uniswap/sdk-core": "git+https://github.com/emuswap/sdk-core.git#emuswap",
+    "@uniswap/swap-router-contracts": "git+https://github.com/emuswap/swap-router-contracts.git#emuswap",
+    "@uniswap/v3-periphery": "git+https://github.com/emuswap/v3-periphery.git#emuswap",
+    "@uniswap/v3-staker": "git+https://github.com/emuswap/v3-staker.git#emuswap",
     "tiny-invariant": "^1.1.0",
     "tiny-warning": "^1.0.3"
   },
